@@ -1,0 +1,216 @@
+{
+  "profile": {
+    "name": "สุรเกียรติ แสงกล้า",
+    "job": "Associate Software Engineer",
+    "avatar": "img/profile/me.webp",
+    "aboutMe": "ผมเป็น Software Engineer ที่มีความสามารถออกแบบและพัฒนาระบบทั้งส่วนหน้าบ้านและส่วนหลังบ้านได้ และตอนนี้ผมกำลังทำงานในทีมที่ให้บริการผลิตภัณฑ์แลกเปลี่ยนเงินตราต่างประเทศ เช่น Spot, Forward และ FX Swap สำหรับการชำระเงินระหว่างประเทศในสกุลเงินหลักที่ ธนาคารไทยพาณิชย์",
+    "socialNetwork": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/joyboy1890"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/surakiat"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF & DOC",
+    "value": "สุรเกียรติ แสงกล้า",
+    "url": "#"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "อีเมล",
+      "value": "surakiat.dev@gmail.com"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "อายุ 25 ปี",
+      "value": "17 มีนาคม 2540"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "เบอร์โทรศัพท์มือถือ (สำหรับติดต่องาน)",
+      "value": "+66 (095) 839 7716"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "ประเภทงาน",
+      "value": "Remote or Fulltime"
+    }
+  ],
+  "skill": [
+    "Java",
+    "Spring Boot (and WebFlux)",
+    "PHP",
+    "Laravel",
+    "NodeJS",
+    "HTML",
+    "JavaScript",
+    "TypeScript",
+    "jQuery",
+    "VueJS",
+    "NuxtJS",
+    "Bootstrap",
+    "Tailwindcss",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Git"
+  ],
+  "language": [
+    {
+      "name": "English",
+      "code": "th-TH",
+      "flag": "svg/united-states.svg",
+      "level": "ปานกลาง"
+    },
+    {
+      "name": "ภาษาไทย",
+      "code": "en-US",
+      "flag": "svg/thailand.svg",
+      "level": "ภาษาหลัก"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Software Engineer",
+      "company": "Siam Commercial Bank",
+      "companyLogo": "img/company/scb.jpeg",
+      "location": "Bangkok",
+      "workType": "Fulltime",
+      "start": "Jun 2022",
+      "end": "Present",
+      "description": "ตอนนี้ผมกำลังทำงานในทีม treasury ที่ให้บริการแลกเปลี่ยนเงินตราต่างประเทศภายในธนาคารของบริษัทที่ให้บริการผลิตภัณฑ์แลกเปลี่ยนเงินตราต่างประเทศ เช่น Spot, Forward และ FX Swap สำหรับการชำระเงินระหว่างประเทศในสกุลเงินหลักที่ธนาคารไทยพาณิชย์ ผลิตภัณฑ์ที่ใช้ Vanilla JavaScript, HTML, Bootstrap สำหรับการจัดการส่วนหน้า, Java Spring Boot สำหรับการจัดการส่วนหลัง, PostgreSQL, Redis สำหรับฐานข้อมูล"
+    },
+    {
+      "job": "Software Developer",
+      "company": "Creden Asia",
+      "companyLogo": "img/company/creden.jpeg",
+      "location": "Bangkok",
+      "workType": "Fulltime",
+      "start": "Apr 2021",
+      "end": "May 2022",
+      "description": "ผมเคยทำงานในทีมพัฒนาซอฟแวร์โดยใช้ JavaScript (Nuxtjs) และ HTML, Bootstrap สำหรับการจัดการส่วนหน้าบ้าน, Lua สำหรับการจัดการส่วนหลังบ้าน, PostgreSQL MongoDB Redis สำหรับฐานข้อมูล คอยตรวจสอบและพัฒนาผลิตภัณฑ์ในทีมที่ให้บริการสำหรับข้อมูลนิติบุคคล"
+    }
+  ],
+  "education": [
+    {
+      "college": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+      "collegeLogo": "img/college/kmutnb.jpg",
+      "course": "ปริญญาตรี, สาขาเทคโนโลยีสารสนเทศเพื่ออุตสาหกรรม",
+      "start": "2561",
+      "end": "2563",
+      "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
+    },
+    {
+      "college": "วิทยาลัยเทคนิคอุบลราชธานี",
+      "collegeLogo": "img/college/ubon.jpg",
+      "course": "ประกาศนียบัตรวิชาชีพชั้นสูง, สาขาเทคโนโลยีสารสนเทศ",
+      "start": "2557",
+      "end": "2559",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "job": "Team Coordinator",
+      "company": "Green Peace",
+      "companyLogo": "img/company/green-peace.jpg",
+      "location": "New York",
+      "workType": "Remote",
+      "start": "January 2000",
+      "end": "Current",
+      "description": "Greenpeace is an independent global campaigning network that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace. It comprises 26 independent national/regional Greenpeace organisations with presence in over 55 countries across Europe, Africa, the Americas, Asia and the Pacific, as well as a coordinating and supporting organisation, Greenpeace International."
+    }
+  ],
+  "certificate": [
+    {
+      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2000",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+    },
+    {
+      "course": "Microsoft 365 Fundamentals",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2001",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2002",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
+    },
+    {
+      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2003",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
+    },
+    {
+      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2004",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Developer Associate (AZ-204)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2005",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
+    },
+    {
+      "course": "Work Smarter with Microsoft Excel",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2006",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
+    }
+  ],
+  "project": [
+    {
+      "name": "Visual Studio Code",
+      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+      "language": "Typescript",
+      "image": "img/project/vscode.png",
+      "stars": "+138k",
+      "forks": "23.8k",
+      "url": "https://github.com/microsoft/vscode"
+    },
+    {
+      "name": "TypeScript",
+      "description": "TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.",
+      "language": "Typescript",
+      "image": "img/project/typescript.png",
+      "stars": "+85.3k",
+      "forks": "11.1k",
+      "url": "https://github.com/microsoft/TypeScript"
+    }
+  ]
+}

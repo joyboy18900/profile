@@ -1,0 +1,33 @@
+{
+  "resume": "เรซูเม่",
+  "information": "ข้อมูลเบื้องต้น",
+  "skills": "สกิล",
+  "language": "ภาษาแสดงผล",
+  "about": "เกี่ยวกับฉัน",
+  "experience": "ประสบการณ์การทำงาน",
+  "volunteer": "อาสาสมัคร",
+  "education": "การศึกษา",
+  "license": "Licenses and Certificates",
+  "project": "ผลงาน",
+  "credential": "Credential",
+  "credential_code": "Credential Code:",
+  "settings": {
+    "title": "ตั้งค่า",
+    "theme": "ธีม",
+    "dark_mode": "เปิดใช้งาน Dark mode",
+    "th": "ภาษาไทย",
+    "en": "English"
+  },
+  "menu": {
+    "experience": "ประสบการณ์การทำงาน",
+    "education": "การศึกษา",
+    "project": "ผลงาน"
+  },
+  "paginate": {
+    "count": "แสดง {first} ถึง {last} จาก {total} ทั้งหมด",
+    "previous_page": "หน้าก่อนหน้า",
+    "next_page": "หน้าถัดไป",
+    "first_page": "หน้าแรก",
+    "last_page": "หน้าสุดท้าย"
+  }
+}
