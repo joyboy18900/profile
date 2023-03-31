@@ -6,12 +6,16 @@
     "aboutMe": "I’m a software engineer specializing in the system design and development of both front-end and back-end systems. And now I'm working on the team providing Foreign Exchange Products such as Spot, Forward and FX Swap for international payment available in major currencies at Siam Commercial Bank.",
     "socialNetwork": [
       {
-        "name": "Twitter",
-        "url": "https://twitter.com/joyboy1890"
-      },
-      {
         "name": "Linkedin",
         "url": "https://www.linkedin.com/in/surakiat"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/joyboy18900"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/joyboy1890"
       }
     ]
   },

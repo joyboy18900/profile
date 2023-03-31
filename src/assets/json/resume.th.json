@@ -6,12 +6,16 @@
     "aboutMe": "ผมเป็น Software Engineer ที่มีความสามารถออกแบบและพัฒนาระบบทั้งส่วนหน้าบ้านและส่วนหลังบ้านได้ และตอนนี้ผมกำลังทำงานในทีมที่ให้บริการผลิตภัณฑ์แลกเปลี่ยนเงินตราต่างประเทศ เช่น Spot, Forward และ FX Swap สำหรับการชำระเงินระหว่างประเทศในสกุลเงินหลักที่ ธนาคารไทยพาณิชย์",
     "socialNetwork": [
       {
-        "name": "Twitter",
-        "url": "https://twitter.com/joyboy1890"
-      },
-      {
         "name": "Linkedin",
         "url": "https://www.linkedin.com/in/surakiat"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/joyboy18900"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/joyboy1890"
       }
     ]
   },
