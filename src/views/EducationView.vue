@@ -7,5 +7,5 @@ import CertificateCard from '@/components/CertificateCard.vue';
   <!-- Education -->
   <EducationCard />
   <!-- Certificate -->
-  <CertificateCard />
+  <!-- <CertificateCard /> -->
 </template>
