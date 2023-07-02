@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "สุรเกียรติ แสงกล้า",
-    "job": "Associate Software Engineer",
+    "job": "Software Engineer",
     "avatar": "img/profile/me.webp",
     "aboutMe": "ผมเป็น Software Engineer มีความสามารถออกแบบและพัฒนาระบบทั้งส่วนหน้าบ้านและส่วนหลังบ้านได้ และตอนนี้ผมกำลังทำงานในทีมที่ให้บริการผลิตภัณฑ์แลกเปลี่ยนเงินตราต่างประเทศ เช่น Spot, Forward และ FX Swap สำหรับการชำระเงินระหว่างประเทศในสกุลเงินหลักที่ ธนาคารไทยพาณิชย์",
     "socialNetwork": [
@@ -33,7 +33,7 @@
     },
     {
       "icon": "CakeIcon",
-      "name": "อายุ 25 ปี",
+      "name": "อายุ 26 ปี",
       "value": "17 มีนาคม 2540"
     },
     {

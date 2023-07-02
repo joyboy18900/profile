@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Surakiat Sangkla",
-    "job": "Associate Software Engineer",
+    "job": "Software Engineer",
     "avatar": "img/profile/me.webp",
     "aboutMe": "I’m a software engineer specializing in the system design and development of both front-end and back-end systems. And now I'm working on the team providing Foreign Exchange Products such as Spot, Forward and FX Swap for international payment available in major currencies at Siam Commercial Bank.",
     "socialNetwork": [
@@ -33,7 +33,7 @@
     },
     {
       "icon": "CakeIcon",
-      "name": "25 Years old",
+      "name": "26 Years old",
       "value": "17 March 1997"
     },
     {
