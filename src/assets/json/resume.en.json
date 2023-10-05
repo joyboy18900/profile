@@ -31,16 +31,6 @@
       "name": "Mail address",
       "value": "surakiat.dev@gmail.com"
     },
-    //{
-    //  "icon": "CakeIcon",
-    //  "name": "26 Years old",
-    //  "value": "17 March 1997"
-    //},
-    //{
-    //  "icon": "DevicePhoneMobileIcon",
-    //  "name": "Phone Number (for Work)",
-    //  "value": "+66 (092) 435 3204"
-    //},
     {
       "icon": "ComputerDesktopIcon",
       "name": "Work type",
