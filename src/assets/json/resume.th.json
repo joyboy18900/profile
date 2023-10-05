@@ -31,16 +31,16 @@
       "name": "อีเมล",
       "value": "surakiat.dev@gmail.com"
     },
-    {
-      "icon": "CakeIcon",
-      "name": "อายุ 26 ปี",
-      "value": "17 มีนาคม 2540"
-    },
-    {
-      "icon": "DevicePhoneMobileIcon",
-      "name": "เบอร์โทรศัพท์มือถือ (สำหรับติดต่องาน)",
-      "value": "+66 (092) 435 3204"
-    },
+    //{
+    //  "icon": "CakeIcon",
+    //  "name": "อายุ 26 ปี",
+    //  "value": "17 มีนาคม 2540"
+    //},
+    //{
+    //  "icon": "DevicePhoneMobileIcon",
+    //  "name": "เบอร์โทรศัพท์มือถือ (สำหรับติดต่องาน)",
+    //  "value": "+66 (092) 435 3204"
+    //},
     {
       "icon": "ComputerDesktopIcon",
       "name": "ประเภทงาน",
