@@ -30,6 +30,11 @@
       "icon": "EnvelopeIcon",
       "name": "Mail address",
       "value": "surakiat.dev@gmail.com"
+    },  
+    {
+      "icon": "CakeIcon",
+      "name": "26 Years old",
+      "value": "17 March 1997"
     },
     {
       "icon": "ComputerDesktopIcon",
