@@ -1,11 +1,17 @@
 {
-  "extends": "@vue/tsconfig/tsconfig.web.json",
+  // Remove the line below
+  // "extends": "@vue/tsconfig/tsconfig.web.json",
   "include": ["env.d.ts", "src/**/*", "src/**/*.vue"],
   "compilerOptions": {
+    "module": "es2020",
+    "moduleResolution": "node",
+    // "target": "es2020",
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
   },
 
   "references": [
