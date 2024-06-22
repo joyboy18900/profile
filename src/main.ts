@@ -1,11 +1,11 @@
-import { createApp } from 'vue'
-import { createPinia } from 'pinia'
+import { createApp } from 'vue';
+import { createPinia } from 'pinia';
 import { createI18n } from 'vue-i18n';
-import App from './App.vue'
-import router from './router'
+import App from './App.vue';
+import router from './router';
 import VueEasyLightbox from 'vue-easy-lightbox';
 
-import './assets/main.css'
+import './assets/main.css';
 
 import enUS from './assets/i18n/en-US.json';
 import thTH from './assets/i18n/th-TH.json';
@@ -23,11 +23,11 @@ const i18n = createI18n<[MessageSchema], 'en-US' | 'th-TH'>({
   },
 });
 
-const app = createApp(App)
+const app = createApp(App);
 
 app.use(i18n);
 app.use(VueEasyLightbox);
-app.use(router)
-app.use(createPinia())
+app.use(router);
+app.use(createPinia());
 
-app.mount('#app')
+app.mount('#app');
