@@ -3,7 +3,7 @@
     "name": "Surakiat Sangkla",
     "job": "Senior Engineer",
     "avatar": "img/profile/me.webp",
-    "aboutMe": "I’m a seasoned software engineer with over five years of expertise in system design and development. I currently serve as a Senior Engineer building backend services for a Virtual Bank project at Ascend Group, developing core payment APIs including Request to Pay and BAHTNET using Kotlin Spring Boot. I also champion AI-assisted development workflows and designing systems with GitHub Copilot CLI and GraphRAG to accelerate team productivity.",
+    "aboutMe": "I’m a seasoned software engineer with over five years of expertise in system design and development. I currently serve as a Senior Engineer building backend services for a Virtual Bank project at Ascend Group, developing core payment APIs including Request to Pay and BAHTNET using Kotlin Spring Boot.",
     "socialNetwork": [
       {
         "name": "Linkedin",

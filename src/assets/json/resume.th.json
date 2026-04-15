@@ -3,7 +3,7 @@
     "name": "สุรเกียรติ แสงกล้า",
     "job": "Senior Engineer",
     "avatar": "img/profile/me.webp",
-    "aboutMe": "ผมเป็น Software Engineer ที่มีประสบการณ์มากกว่า 5 ปี ในด้านการออกแบบและพัฒนาระบบ ปัจจุบันดำรงตำแหน่ง Senior Engineer ที่ Ascend Group โดยพัฒนา Backend Services สำหรับโปรเจกต์ Virtual Bank รวมถึง API การชำระเงินหลัก เช่น Request to Pay และ BAHTNET โดยใช้ Kotlin Spring Boot นอกจากนี้ยังริเริ่มการพัฒนาด้วย AI โดยใช้ GitHub Copilot CLI ร่วมกับ GraphRAG เพื่อเพิ่มประสิทธิภาพการทำงานของทีม",
+    "aboutMe": "ผมเป็น Software Engineer ที่มีประสบการณ์มากกว่า 5 ปี ในด้านการออกแบบและพัฒนาระบบ ปัจจุบันดำรงตำแหน่ง Senior Engineer ที่ Ascend Group โดยพัฒนา Backend Services สำหรับโปรเจกต์ Virtual Bank รวมถึง API การชำระเงินหลัก เช่น Request to Pay และ BAHTNET โดยใช้ Kotlin Spring Boot",
     "socialNetwork": [
       {
         "name": "Linkedin",
