@@ -32,9 +32,9 @@
       "value": "surakiat.dev@gmail.com"
     },
     {
-     "icon": "CakeIcon",
-     "name": "อายุ 29 ปี",
-     "value": "17 มีนาคม 2540"
+      "icon": "CakeIcon",
+      "name": "อายุ 29 ปี",
+      "value": "17 มีนาคม 2540"
     },
     {
       "icon": "ComputerDesktopIcon",
@@ -46,26 +46,25 @@
     "Java",
     "Kotlin",
     "Golang",
-    "Spring Boot (and WebFlux)",
-    "NodeJS",
     "Python",
-    "HTML",
+    "PHP",
     "JavaScript",
     "TypeScript",
-    "jQuery",
+    "HTML",
+    "Spring Boot",
+    "Spring Boot WebFlux",
     "VueJS",
     "NuxtJS",
-    "Bootstrap",
-    "Tailwindcss",
     "PostgreSQL",
     "MongoDB",
     "Redis",
+    "Azure AD",
+    "AWS (EC2, Amazon RDS, Amazon Aurora)",
     "Docker",
     "Jenkins",
     "Kafka",
-    "Kibana",
-    "Azure",
-    "Git"
+    "GraphRAG",
+    "RAG"
   ],
   "language": [
     {
@@ -88,8 +87,8 @@
       "companyLogo": "img/company/ascend.webp",
       "location": "Bangkok",
       "workType": "Fulltime",
-      "start": "Jan 2026",
-      "end": "Present",
+      "start": "มกราคม 2569",
+      "end": "ปัจจุบัน",
       "description": "ผมเป็นส่วนหนึ่งของทีมพัฒนา Backend Services สำหรับโปรเจกต์ Virtual Bank ในตำแหน่ง Senior Engineer โดยใช้ Kotlin กับ Spring Boot เพื่อพัฒนาและดูแล API หลักของระบบชำระเงิน ได้แก่ Request to Pay, BAHTNET และ Backend for Frontend (BFF) ระบบ Deploy บน AWS EC2 ใช้ PostgreSQL (Amazon Aurora) และ Redis สำหรับ Caching นอกจากนี้ยังริเริ่มการพัฒนาด้วย AI โดยใช้ GitHub Copilot CLI ร่วมกับ GraphRAG ทำให้สามารถ Generate โค้ดที่ตรงตามมาตรฐานทีมได้มากกว่า 90% และลดเวลางานจาก 2 Sprint เหลือเพียง 3 วัน"
     },
     {
@@ -98,8 +97,8 @@
       "companyLogo": "img/company/ttb.webp",
       "location": "Bangkok",
       "workType": "Fulltime",
-      "start": "Jun 2025",
-      "end": "Dec 2025",
+      "start": "มิถุนายน 2568",
+      "end": "ธันวาคม 2568",
       "description": "ผมเป็นส่วนหนึ่งของทีมพัฒนาระบบภายในใหม่ของ TTB ในรูปแบบสัญญาจ้าง โดยใช้ Java Spring Boot พัฒนา Backend API ใหม่ทดแทนระบบเก่า ครอบคลุมฟังก์ชันธนาคารหลัก เช่น การโอนเงิน ฝาก ถอน และชำระเงิน พัฒนา RESTful API ใหม่ที่ช่วยเพิ่มเสถียรภาพระบบและลด Response Time ลง 40% สร้างระบบ Error Handling และ Logging ที่ครอบคลุม ลดเวลา Debug ลง 50%"
     },
     {
@@ -108,8 +107,8 @@
       "companyLogo": "img/company/scb.jpeg",
       "location": "Bangkok",
       "workType": "Fulltime",
-      "start": "Jun 2021",
-      "end": "May 2025",
+      "start": "มิถุนายน 2564",
+      "end": "พฤษภาคม 2568",
       "description": "ผมเป็นส่วนหนึ่งของทีมที่ให้บริการแลกเปลี่ยนเงินตราต่างประเทศ ครอบคลุมผลิตภัณฑ์ Spot, Forward และ FX Swap สำหรับการชำระเงินระหว่างประเทศ ใช้ Java Spring Boot สำหรับ Backend, PostgreSQL และ Redis สำหรับ Caching และใช้ Azure กับ Jenkins สำหรับการจัดการ Infrastructure พัฒนา Project Template และโครงสร้างที่ช่วยให้เริ่มโปรเจกต์ใหม่ได้เร็วขึ้น 60% สร้างระบบ Migration ข้อมูลสำหรับไฟล์ขนาดใหญ่ทั้ง CSV และ Excel เพิ่มความเร็วการอัปโหลดข้อมูล 50% และพัฒนาระบบแลกเปลี่ยนเงินสำหรับห้างสรรพสินค้าและสนามบิน"
     },
     {
@@ -118,8 +117,8 @@
       "companyLogo": "img/company/creden.jpeg",
       "location": "Bangkok",
       "workType": "Fulltime",
-      "start": "Apr 2020",
-      "end": "May 2021",
+      "start": "เมษายน 2563",
+      "end": "พฤษภาคม 2564",
       "description": "ผมทำงานในทีมพัฒนาซอฟต์แวร์โดยใช้ JavaScript (VueJS, NuxtJS) และ HTML5, Bootstrap สำหรับ Frontend, Lua สำหรับ Backend และ PostgreSQL, MongoDB, Redis สำหรับฐานข้อมูล ดูแลและพัฒนาผลิตภัณฑ์ที่เกี่ยวข้องกับการจัดเก็บและวิเคราะห์ข้อมูลนิติบุคคล พัฒนาระบบ Distributed Caching ช่วยเพิ่มประสิทธิภาพระบบขึ้น 70% สร้างระบบ Monitoring และแจ้งเตือน ลด System Downtime ลง 90% และลดเวลาตอบสนองต่อเหตุการณ์ลง 80%"
     }
   ],
