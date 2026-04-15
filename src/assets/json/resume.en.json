@@ -128,16 +128,16 @@
       "college": "King Mongkut's University of Technology North Bangkok",
       "collegeLogo": "img/college/kmutnb.jpg",
       "course": "Bachelor of Industrial Technology, Information Technology",
-      "start": "2561",
-      "end": "2563",
+      "start": "2018",
+      "end": "2020",
       "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
     },
     {
       "college": "Ubon Ratchathani Technical College",
       "collegeLogo": "img/college/ubon.jpg",
       "course": "Diploma, Information Technology",
-      "start": "2557",
-      "end": "2559",
+      "start": "2014",
+      "end": "2016",
       "url": ""
     }
   ],
