@@ -1,0 +1,75 @@
+{
+  "profiles": {
+    "default": {
+      "agents": [
+        "ai-specialists/prompt-engineer",
+        "database/database-architect",
+        "development-tools/context-manager",
+        "development-tools/debugger",
+        "development-tools/code-reviewer",
+        "development-team/fullstack-developer",
+        "development-team/ui-ux-designer",
+        "ai-specialists/task-decomposition-expert",
+        "security/security-auditor"
+      ],
+      "skills": [
+        "development/code-reviewer",
+        "development/brainstorming",
+        "document-processing/pdf-anthropic"
+      ],
+      "hooks": [
+        "automation/dependency-checker",
+        "security/security-scanner",
+        "security/dangerous-command-blocker"
+      ],
+      "mcps": [
+        "devtools/chrome-devtools",
+        "integration/memory-integration",
+        "integration/github-integration",
+        "devtools/context7",
+        "browser_automation/playwright-mcp-server"
+      ]
+    },
+    "frontend": {
+      "agents": [
+        "development-team/ui-ux-designer",
+        "development-team/fullstack-developer",
+        "development-tools/code-reviewer"
+      ],
+      "skills": [
+        "development/code-reviewer"
+      ],
+      "mcps": [
+        "devtools/chrome-devtools"
+      ]
+    },
+    "backend": {
+      "agents": [
+        "database/database-architect",
+        "development-team/fullstack-developer",
+        "development-tools/debugger"
+      ],
+      "skills": [
+        "development/code-reviewer"
+      ],
+      "mcps": [
+        "integration/github-integration"
+      ]
+    },
+    "security": {
+      "agents": [
+        "security/security-auditor"
+      ],
+      "hooks": [
+        "security/security-scanner",
+        "security/dangerous-command-blocker"
+      ]
+    }
+  },
+  "settings": {
+    "autoLoadProfile": "default",
+    "enableAutoUpdate": false,
+    "logLevel": "info",
+    "cacheEnabled": true
+  }
+}
