@@ -1,9 +1,9 @@
 {
   "profile": {
     "name": "Surakiat Sangkla",
-    "job": "Software Engineer",
+    "job": "Senior Engineer",
     "avatar": "img/profile/me.webp",
-    "aboutMe": "I’m a software engineer specializing in the system design and development of both front-end and back-end systems. And now I'm working on the team providing Foreign Exchange Products such as Spot, Forward and FX Swap for international payment available in major currencies at Siam Commercial Bank.",
+    "aboutMe": "I’m a seasoned software engineer with over five years of expertise in system design and development. I currently serve as a Senior Engineer building backend services for a Virtual Bank project at Ascend Group, developing core payment APIs including Request to Pay and BAHTNET using Kotlin Spring Boot. I also champion AI-assisted development workflows and designing systems with GitHub Copilot CLI and GraphRAG to accelerate team productivity.",
     "socialNetwork": [
       {
         "name": "Linkedin",
@@ -33,7 +33,7 @@
     },
     {
       "icon": "CakeIcon",
-      "name": "27 Years old",
+      "name": "29 Years old",
       "value": "17 March 1997"
     },
     {
@@ -44,10 +44,11 @@
   ],
   "skill": [
     "Java",
+    "Kotlin",
+    "Golang",
     "Spring Boot (and WebFlux)",
-    "PHP",
-    "Laravel",
     "NodeJS",
+    "Python",
     "HTML",
     "JavaScript",
     "TypeScript",
@@ -59,6 +60,11 @@
     "PostgreSQL",
     "MongoDB",
     "Redis",
+    "Docker",
+    "Jenkins",
+    "Kafka",
+    "Kibana",
+    "Azure",
     "Git"
   ],
   "language": [
@@ -77,24 +83,44 @@
   ],
   "experience": [
     {
-      "job": "Siam Commercial Bank",
-      "company": "Software Engineer",
+      "job": "Senior Engineer",
+      "company": "Ascend Group",
+      "companyLogo": "img/company/ascend.webp",
+      "location": "Bangkok",
+      "workType": "Fulltime",
+      "start": "Jan 2026",
+      "end": "Present",
+      "description": "I am part of a development team building backend services for a Virtual Bank project. As a Senior Engineer, I use Kotlin with Spring Boot to develop and maintain backend APIs supporting core payment systems including Request to Pay, BAHTNET, and Backend for Frontend (BFF). The system is deployed on AWS EC2 with PostgreSQL (Amazon Aurora) and Redis for caching. I also initiated AI-assisted development using GitHub Copilot CLI with GraphRAG and skills.md to read Jira Cards, PRDs, and Confluence Specs, generating code that matches team standards over 90% and reducing tasks from 2 sprints to just 3 days."
+    },
+    {
+      "job": "Software Engineer",
+      "company": "TMBThanachart Bank",
+      "companyLogo": "img/company/ttb.webp",
+      "location": "Bangkok",
+      "workType": "Fulltime",
+      "start": "Jun 2025",
+      "end": "Dec 2025",
+      "description": "I was part of a development team working on a new internal system project for TTB as a contract-based role. I used Java Spring Boot to develop new backend APIs replacing legacy systems, focusing on core banking functions including fund transfer, deposit, withdrawal, and payment systems. Developed and implemented new RESTful APIs improving system stability and reducing response time by 40%. Built comprehensive error handling and logging systems, reducing debugging time by 50%."
+    },
+    {
+      "job": "Senior Software Engineer",
+      "company": "Siam Commercial Bank",
       "companyLogo": "img/company/scb.jpeg",
       "location": "Bangkok",
       "workType": "Fulltime",
-      "start": "Jun 2022",
-      "end": "Present",
-      "description": "I have experience working in a treasury team at Siam Commercial Bank, a corporate bank, where I provided foreign exchange services. This included managing products such as Spot, Forward, and FX Swap for international payments in major currencies. In this role, I utilized Vanilla JavaScript, HTML, and Bootstrap for front-end development, Java Spring Boot for back-end management, and employed PostgreSQL and Redis for caching data in conjunction with databases."
+      "start": "Jun 2021",
+      "end": "May 2025",
+      "description": "I was a member of the team providing foreign exchange services, managing products such as Spot, Forward, and FX Swap for international payments in major currencies. I used Java Spring Boot for backend development, PostgreSQL and Redis for data caching, and Azure with Jenkins for infrastructure management. Developed project templates and structures resulting in 60% faster project initiation. Created a data migration system for large CSV and Excel files, leading to a 50% increase in data upload speed. Developed a currency exchange system for Thai Baht and foreign currencies for use in department stores and airports."
     },
     {
-      "job": "Creden Asia",
-      "company": "Software Developer",
+      "job": "Software Developer",
+      "company": "Creden Asia",
       "companyLogo": "img/company/creden.jpeg",
       "location": "Bangkok",
       "workType": "Fulltime",
-      "start": "Apr 2021",
-      "end": "May 2022",
-      "description": "I used to work in the Developer department using JavaScript (Nuxtjs) and HTML, Bootstrap for front-end management, Lua for back-end management, PostgreSQL MongoDB Redis for databases. I maintain and develop products related to corporate information."
+      "start": "Apr 2020",
+      "end": "May 2021",
+      "description": "I worked in the Development department using JavaScript (VueJS, NuxtJS) and HTML5, Bootstrap for frontend management, and Lua for backend management. I managed and developed products related to corporate data storage and analysis using PostgreSQL, MongoDB, and Redis. Implemented a distributed caching system improving system performance by 70%. Developed and managed a monitoring and notification system, reducing system downtime by 90% and incident response time by 80%."
     }
   ],
   "education": [

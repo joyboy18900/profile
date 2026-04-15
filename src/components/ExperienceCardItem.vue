@@ -11,7 +11,7 @@ defineProps<{ item: Experience; separator: boolean }>();
     <img
       :src="getImagePath(item.companyLogo)"
       alt="Avatar"
-      class="h-14 w-14 shrink-0 rounded-xl border-2 border-gray-50 shadow-sm dark:border-night-700" />
+      class="h-14 w-14 shrink-0 rounded-xl border-2 border-gray-50 bg-white shadow-sm dark:border-night-700" />
     <div class="ml-3 w-full space-y-5">
       <div class="justify-between sm:flex">
         <div class="space-y-2">

@@ -1,9 +1,9 @@
 {
   "profile": {
     "name": "สุรเกียรติ แสงกล้า",
-    "job": "Software Engineer",
+    "job": "Senior Engineer",
     "avatar": "img/profile/me.webp",
-    "aboutMe": "ผมเป็น Software Engineer มีความสามารถออกแบบและพัฒนาระบบทั้งส่วนหน้าบ้านและส่วนหลังบ้านได้ และตอนนี้ผมกำลังทำงานในทีมที่ให้บริการผลิตภัณฑ์แลกเปลี่ยนเงินตราต่างประเทศ เช่น Spot, Forward และ FX Swap สำหรับการชำระเงินระหว่างประเทศในสกุลเงินหลักที่ ธนาคารไทยพาณิชย์",
+    "aboutMe": "ผมเป็น Software Engineer ที่มีประสบการณ์มากกว่า 5 ปี ในด้านการออกแบบและพัฒนาระบบ ปัจจุบันดำรงตำแหน่ง Senior Engineer ที่ Ascend Group โดยพัฒนา Backend Services สำหรับโปรเจกต์ Virtual Bank รวมถึง API การชำระเงินหลัก เช่น Request to Pay และ BAHTNET โดยใช้ Kotlin Spring Boot นอกจากนี้ยังริเริ่มการพัฒนาด้วย AI โดยใช้ GitHub Copilot CLI ร่วมกับ GraphRAG เพื่อเพิ่มประสิทธิภาพการทำงานของทีม",
     "socialNetwork": [
       {
         "name": "Linkedin",
@@ -33,7 +33,7 @@
     },
     {
      "icon": "CakeIcon",
-     "name": "อายุ 27 ปี",
+     "name": "อายุ 29 ปี",
      "value": "17 มีนาคม 2540"
     },
     {
@@ -44,10 +44,11 @@
   ],
   "skill": [
     "Java",
+    "Kotlin",
+    "Golang",
     "Spring Boot (and WebFlux)",
-    "PHP",
-    "Laravel",
     "NodeJS",
+    "Python",
     "HTML",
     "JavaScript",
     "TypeScript",
@@ -59,6 +60,11 @@
     "PostgreSQL",
     "MongoDB",
     "Redis",
+    "Docker",
+    "Jenkins",
+    "Kafka",
+    "Kibana",
+    "Azure",
     "Git"
   ],
   "language": [
@@ -77,14 +83,34 @@
   ],
   "experience": [
     {
+      "job": "Senior Engineer",
+      "company": "Ascend Group",
+      "companyLogo": "img/company/ascend.webp",
+      "location": "Bangkok",
+      "workType": "Fulltime",
+      "start": "Jan 2026",
+      "end": "Present",
+      "description": "ผมเป็นส่วนหนึ่งของทีมพัฒนา Backend Services สำหรับโปรเจกต์ Virtual Bank ในตำแหน่ง Senior Engineer โดยใช้ Kotlin กับ Spring Boot เพื่อพัฒนาและดูแล API หลักของระบบชำระเงิน ได้แก่ Request to Pay, BAHTNET และ Backend for Frontend (BFF) ระบบ Deploy บน AWS EC2 ใช้ PostgreSQL (Amazon Aurora) และ Redis สำหรับ Caching นอกจากนี้ยังริเริ่มการพัฒนาด้วย AI โดยใช้ GitHub Copilot CLI ร่วมกับ GraphRAG ทำให้สามารถ Generate โค้ดที่ตรงตามมาตรฐานทีมได้มากกว่า 90% และลดเวลางานจาก 2 Sprint เหลือเพียง 3 วัน"
+    },
+    {
       "job": "Software Engineer",
+      "company": "TMBThanachart Bank",
+      "companyLogo": "img/company/ttb.webp",
+      "location": "Bangkok",
+      "workType": "Fulltime",
+      "start": "Jun 2025",
+      "end": "Dec 2025",
+      "description": "ผมเป็นส่วนหนึ่งของทีมพัฒนาระบบภายในใหม่ของ TTB ในรูปแบบสัญญาจ้าง โดยใช้ Java Spring Boot พัฒนา Backend API ใหม่ทดแทนระบบเก่า ครอบคลุมฟังก์ชันธนาคารหลัก เช่น การโอนเงิน ฝาก ถอน และชำระเงิน พัฒนา RESTful API ใหม่ที่ช่วยเพิ่มเสถียรภาพระบบและลด Response Time ลง 40% สร้างระบบ Error Handling และ Logging ที่ครอบคลุม ลดเวลา Debug ลง 50%"
+    },
+    {
+      "job": "Senior Software Engineer",
       "company": "Siam Commercial Bank",
       "companyLogo": "img/company/scb.jpeg",
       "location": "Bangkok",
       "workType": "Fulltime",
-      "start": "Jun 2022",
-      "end": "Present",
-      "description": "ตอนนี้ผมกำลังทำงานในทีม Treasury ที่ให้บริการแลกเปลี่ยนเงินตราต่างประเทศภายในธนาคารของบริษัทที่ให้บริการผลิตภัณฑ์แลกเปลี่ยนเงินตราต่างประเทศ เช่น Spot, Forward และ FX Swap สำหรับการชำระเงินระหว่างประเทศในสกุลเงินหลักที่ธนาคารไทยพาณิชย์ ผมใช้งาน Vanilla JavaScript, HTML, และ Bootstrap เพื่อการพัฒนาส่วนหน้า (front-end) และ Java Spring Boot เพื่อการจัดการส่วนหลัง (back-end) นอกจากนี้ยังใช้ฐานข้อมูล PostgreSQL และ Redis เพื่อการจัดเก็บแคชข้อมูลร่วมกับฐานข้อมูล"
+      "start": "Jun 2021",
+      "end": "May 2025",
+      "description": "ผมเป็นส่วนหนึ่งของทีมที่ให้บริการแลกเปลี่ยนเงินตราต่างประเทศ ครอบคลุมผลิตภัณฑ์ Spot, Forward และ FX Swap สำหรับการชำระเงินระหว่างประเทศ ใช้ Java Spring Boot สำหรับ Backend, PostgreSQL และ Redis สำหรับ Caching และใช้ Azure กับ Jenkins สำหรับการจัดการ Infrastructure พัฒนา Project Template และโครงสร้างที่ช่วยให้เริ่มโปรเจกต์ใหม่ได้เร็วขึ้น 60% สร้างระบบ Migration ข้อมูลสำหรับไฟล์ขนาดใหญ่ทั้ง CSV และ Excel เพิ่มความเร็วการอัปโหลดข้อมูล 50% และพัฒนาระบบแลกเปลี่ยนเงินสำหรับห้างสรรพสินค้าและสนามบิน"
     },
     {
       "job": "Software Developer",
@@ -92,9 +118,9 @@
       "companyLogo": "img/company/creden.jpeg",
       "location": "Bangkok",
       "workType": "Fulltime",
-      "start": "Apr 2021",
-      "end": "May 2022",
-      "description": "ผมเคยทำงานในทีมพัฒนาซอฟแวร์โดยใช้ JavaScript (Nuxtjs) และ HTML, Bootstrap สำหรับการจัดการส่วนหน้าบ้าน, Lua สำหรับการจัดการส่วนหลังบ้าน, PostgreSQL MongoDB Redis สำหรับฐานข้อมูล คอยตรวจสอบและพัฒนาผลิตภัณฑ์ในทีมที่ให้บริการสำหรับข้อมูลนิติบุคคล"
+      "start": "Apr 2020",
+      "end": "May 2021",
+      "description": "ผมทำงานในทีมพัฒนาซอฟต์แวร์โดยใช้ JavaScript (VueJS, NuxtJS) และ HTML5, Bootstrap สำหรับ Frontend, Lua สำหรับ Backend และ PostgreSQL, MongoDB, Redis สำหรับฐานข้อมูล ดูแลและพัฒนาผลิตภัณฑ์ที่เกี่ยวข้องกับการจัดเก็บและวิเคราะห์ข้อมูลนิติบุคคล พัฒนาระบบ Distributed Caching ช่วยเพิ่มประสิทธิภาพระบบขึ้น 70% สร้างระบบ Monitoring และแจ้งเตือน ลด System Downtime ลง 90% และลดเวลาตอบสนองต่อเหตุการณ์ลง 80%"
     }
   ],
   "education": [
